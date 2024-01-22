@@ -30,8 +30,7 @@ The mock census data was structured to emulate the 1881 UK census, providing det
 
 ## Key Files
 
-* `census_data_cleaning.ipynb`: Data cleaning and preparation 
-* `census_insights_analysis.ipynb`: Exploratory analysis and visualizations
+* `census_cleaning_and_ insights_analysis.ipynb`: Covers steps taken to clean the data as well as exploratory analysis and visualizations
 * `Final_Recommendations.pdf`: Final land use and spending recommendations with discussion and plots
 
 ## Conclusions
