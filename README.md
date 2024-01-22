@@ -1,7 +1,3 @@
-# Census-Data-Analysis-for-Town-Planning
-
- Here is a detailed README.md content for this census data analysis work:
-
 # Census Data Analysis for Town Planning
 
 ## Overview
